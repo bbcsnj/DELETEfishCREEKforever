@@ -8,11 +8,17 @@ background-color: #F0F0F0;
 margin-left: auto;
 margin-right: auto;
 width: 90%; 
+min-width: 700px;
 }
 header { 
 background-color: #003366;
-color: #AEC3E3;
+background-image: url(fishcreeklogo.gif);
+background-position: center;
+background-repeat: no-repeat;
+color: #F0F0F0;
 font-family: Georgia, "Times New Roman", serif;
+padding: 1em;
+text-align: center;
 }
 h1 { 
 line-height: 200%;
